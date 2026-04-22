@@ -1,8 +1,15 @@
 # Hi! I'm Tanky!
 
-My favorite programming languages:
-- Kotlin
-- Javascript
+## Tech stacks
 
-[Join my chat group on Telegram](https://t.me/BinTianqi_chat)
+### Programming languages
 
+![Kotlin](badges/Kotlin.svg) ![HTML](badges/HTML.svg) ![CSS](badges/CSS.svg) ![Javascript](badges/Javascript.svg) ![Typescript](badges/Typescript.svg) ![C++](badges/C++.svg)
+
+### Frameworks
+
+![Jetpack compose](badges/JetpackCompose.svg) ![ESP-IDF](badges/ESP-IDF.svg)
+
+## Devices
+
+![Laptop: MECHREVO](badges/MECHREVO.svg) ![Phone: vivo](badges/vivo.svg)
